@@ -1,3 +1,7 @@
-# tyrexpack
-Welcome to the TyrexPack github.
-Here, there will be files for the resource pack. Please go to the download branch to get the pack.
+# How to Download
+First, you need to download Minecraft and the resource pack of course, lol.
+
+Go to C:\Users\(youruser)\AppData\Roaming\.minecraft\resourcepacks
+Then, copy or file drop the pack to that folder.
+Then your done!
+Enjoy! :D
